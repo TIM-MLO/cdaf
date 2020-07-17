@@ -1,11 +1,9 @@
-<<<<<<< HEAD
-# cdaf
-=======
-# github
+Hello PrasannaKumar
 
-Hi Prasanna Kumar............
+Welcome to Sutherland and Infosys Solutions
 
-Hello PrasannaKumar welcome 2 Infosys pvt Ltd...
+Glad to meet you
 
-Thank you very much for joining this Location Infosys Bangalore...............
->>>>>>> project2/master
+Goodluck and all the best
+
+Bye!!!
